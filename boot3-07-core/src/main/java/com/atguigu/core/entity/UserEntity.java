@@ -11,6 +11,6 @@ public class UserEntity {
 
     private String userName;
     private String passwd;
-    private Integer age;
-    private String email;
+//    private Integer age;
+//    private String email;
 }

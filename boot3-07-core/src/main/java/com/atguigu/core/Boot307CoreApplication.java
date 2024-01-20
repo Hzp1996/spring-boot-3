@@ -19,6 +19,7 @@ public class Boot307CoreApplication {
 //        application.addInitializers();
         application.run(args);
         log.info("项目已启动！");
+        System.out.println("master test");
     }
 
     @Bean
