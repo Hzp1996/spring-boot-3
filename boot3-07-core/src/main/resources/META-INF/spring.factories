@@ -1,0 +1,3 @@
+org.springframework.boot.SpringApplicationRunListener=com.atguigu.core.listener.AppMyListener
+
+org.springframework.context.ApplicationListener=com.atguigu.core.listener.MyListener
